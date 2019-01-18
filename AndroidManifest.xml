@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		package="com.fiercecode.elementium"
+		android:versionCode="1"
+		android:versionName="1.0"
+>
+		<uses-sdk
+				android:minSdkVersion="14"
+				android:targetSdkVersion="17" />
+		<application
+				android:allowBackup="true"
+				android:icon="@drawable/ic_launcher"
+				android:label="@string/app_name"
+				android:theme="@style/MyTheme"
+		>
+				<activity
+						android:name="com.fiercecode.elementium.BaseActivity"
+						android:label="@string/app_name"
+				>
+						<intent-filter>
+								<action android:name="android.intent.action.MAIN" />
+								<category android:name="android.intent.category.LAUNCHER" />
+						</intent-filter>
+				</activity>
+				<activity
+						android:name="com.fiercecode.elementium.GridActivity"
+						android:label="@string/title_activity_grid"
+						android:parentActivityName="com.fiercecode.elementium.BaseActivity"
+				>
+						<meta-data
+								android:name="android.support.PARENT_ACTIVITY"
+								android:value="com.fiercecode.elementium.BaseActivity" />
+				</activity>
+				<activity
+						android:name="com.fiercecode.elementium.AboutActivity"
+						android:label="@string/title_activity_about"
+						android:parentActivityName="com.fiercecode.elementium.BaseActivity"
+				>
+						<meta-data
+								android:name="android.support.PARENT_ACTIVITY"
+								android:value="com.fiercecode.elementium.BaseActivity" />
+				</activity>
+				<activity
+						android:name="com.fiercecode.elementium.DetailActivity"
+						android:label="@string/title_activity_detail"
+						android:parentActivityName="com.fiercecode.elementium.GridActivity"
+				>
+				</activity>
+		</application>
+</manifest>

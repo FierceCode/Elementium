@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="logo_el">Et</string>
+		<string name="app_name">Elementium</string>
+		<string name="base_title_text">Welcome to Elementium</string>
+		<string name="show_elem_desc">View Elements</string>
+		<string name="show_about_desc">About Elementium</string>
+		<string name="logo_desc">Elementium, a product of FierceCode Inc.</string>
+		<string name="about_elementium">Elementium is designed to help you identify key
+				properties pertaining to the Periodic Table of Elements. FierceCode
+				Inc. is not claiming any responsibility or liability for misuse of
+				this application, all data should be validated by the user.
+		</string>
+		<string name="title_activity_grid">GridActivity</string>
+		<string name="title_activity_about">AboutActivity</string>
+		<string name="title_activity_detail">DetailActivity</string>
+		<string name="phase">Phase</string>
+		<string name="category">Category</string>
+		<string name="atomic_weight">Atomic Weight</string>
+		<string name="boiling_point">Boiling Point</string>
+		<string name="melting_point">Melting Point</string>
+		<string name="density">Density</string>
+</resources>

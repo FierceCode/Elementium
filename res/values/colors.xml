@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<color name="black">#000000</color>
+		<color name="yellow">#FFFF22</color>
+		<color name="pink">#FF00FF</color>
+		<color name="white">#FFFFFF</color>
+		<color name="liquid">#0000FF</color>
+		<color name="solid">#FFFFFF</color>
+		<color name="possible_solid">#CCC999</color>
+		<color name="gas">#FF88FF</color>
+		<color name="sythetic">#66FF66</color>
+		<color name="unknown">#777777</color>
+		<color name="unknown_text">#FFFF66</color>
+		<color name="alkali_metal">#FF7700</color>
+		<color name="alkaline_earth_metal">#BFBF44</color>
+		<color name="transition_metal">#996600</color>
+		<color name="actinoid">#DD00CC</color>
+		<color name="lanthanoid">#FFAA88</color>
+		<color name="post_transition_metal">#88AAFF</color>
+		<color name="metalloid">#11DDBB</color>
+		<color name="noble_gas">#9922CC</color>
+		<color name="halogen">#3366FF</color>
+		<color name="non_metal">#339933</color>
+		<color name="melting_point">#FF9900</color>
+		<color name="boiling_point">#FF0000</color>
+</resources>

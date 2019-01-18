@@ -1,0 +1,146 @@
+<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		tools:context=".DetailActivity"
+		android:orientation="vertical"
+		android:layout_gravity="center_horizontal"
+>
+		<RelativeLayout
+				xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="120sp"
+				android:layout_height="120sp"
+				android:layout_margin="20sp"
+				android:layout_gravity="center_horizontal"
+				android:id="@+id/detail_element_bkg"
+		>
+				<TextView
+						android:id="@+id/detail_symbol_view"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_centerInParent="true"
+						android:textSize="54sp" />
+				<TextView
+						android:id="@+id/detail_atomic_view"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_above="@id/detail_symbol_view"
+						android:textAlignment="gravity"
+						android:gravity="left"
+						android:textColor="@color/white"
+						android:layout_margin="1sp"
+						android:textSize="14sp" />
+				<TextView
+						android:id="@+id/detail_name_view"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_below="@id/detail_symbol_view"
+						android:layout_centerHorizontal="true"
+						android:textColor="@color/black"
+						android:textSize="16sp" />
+		</RelativeLayout>
+		<TableLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="bottom"
+				android:gravity="center"
+				android:layout_marginTop="18sp"
+				android:padding="6sp"
+				android:layout_marginLeft="4sp"
+				android:layout_marginRight="4sp"
+		>
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/phase" />
+				<TextView
+						android:id="@+id/detail_phase_view"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:layout_marginLeft="4sp"
+						android:textSize="14sp" />
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/category" />
+				<TextView
+						android:id="@+id/detail_category_view"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:layout_marginLeft="4sp"
+						android:textSize="14sp" />
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/atomic_weight" />
+				<TextView
+						android:layout_marginLeft="4sp"
+						android:id="@+id/detail_atomic_weight_view"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="14sp"
+						android:textColor="@color/yellow" />
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/boiling_point" />
+				<TextView
+						android:id="@+id/detail_boiling_point_view"
+						android:layout_marginLeft="4sp"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textColor="@color/boiling_point"
+						android:textSize="14sp" />
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/melting_point" />
+				<TextView
+						android:id="@+id/detail_melting_point_view"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:layout_marginLeft="4sp"
+						android:textColor="@color/melting_point"
+						android:textSize="14sp" />
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:textSize="16sp"
+						android:textColor="@color/white"
+						android:text="@string/density" />
+				<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:layout_marginLeft="2sp"
+						android:layout_gravity="center_horizontal"
+				>
+						<TextView
+								android:layout_marginLeft="4sp"
+								android:id="@+id/detail_density_view"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								android:layout_marginRight="2sp"
+								android:textSize="14sp"
+								android:textColor="@color/pink" />
+						<TextView
+								android:id="@+id/detail_density_tag_view"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								android:layout_marginLeft="3sp"
+								android:textColor="@color/pink"
+								android:textSize="14sp" />
+				</LinearLayout>
+		</TableLayout>
+</LinearLayout>

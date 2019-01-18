@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElementDataSet>
+		<element>
+				<atomic_number>1</atomic_number>
+				<symbol>H</symbol>
+				<name>Hydrogen</name>
+				<phase>gas</phase>
+				<category>non metal</category>
+				<atomic_weight>1.00794</atomic_weight>
+				<boiling_point>20.28 (kelvin)</boiling_point>
+				<melting_point>14.01 (kelvin)</melting_point>
+				<density>.0899</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>2</atomic_number>
+				<symbol>He</symbol>
+				<name>Helium</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>4.002602</atomic_weight>
+				<boiling_point>4.22 (kelvin)</boiling_point>
+				<melting_point>0.95 (kelvin)</melting_point>
+				<density>.1786</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>3</atomic_number>
+				<symbol>Li</symbol>
+				<name>Lithium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>6.941</atomic_weight>
+				<boiling_point>1615 (kelvin)</boiling_point>
+				<melting_point>453.69 (kelvin)</melting_point>
+				<density>.534</density>
+				<density_tag>g*cm^-3(solid)</density_tag>
+		</element>
+		<element>
+				<atomic_number>4</atomic_number>
+				<symbol>Be</symbol>
+				<name>Berylium</name>
+				<phase>solid</phase>
+				<category>alkaline earth metal</category>
+				<atomic_weight>9.012182</atomic_weight>
+				<boiling_point>2742 (kelvin)</boiling_point>
+				<melting_point>1560 (kelvin)</melting_point>
+				<density>1.85</density>
+				<density_tag>g*cm^-3 (solid)</density_tag>
+		</element>
+		<element>
+				<atomic_number>5</atomic_number>
+				<symbol>B</symbol>
+				<name>Boron</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>10.811</atomic_weight>
+				<boiling_point>4200 (kelvin)</boiling_point>
+				<melting_point>2349 (kelvin)</melting_point>
+				<density>2.08</density>
+				<density_tag>g*cm^-3 (liquid)</density_tag>
+		</element>
+		<element>
+				<atomic_number>6</atomic_number>
+				<symbol>C</symbol>
+				<name>Carbon</name>
+				<phase>solid</phase>
+				<category>non metal</category>
+				<atomic_weight>12.0107</atomic_weight>
+				<boiling_point>4300 (kelvin)</boiling_point>
+				<melting_point>3800 (kelvin)</melting_point>
+				<density>2.267</density>
+				<density_tag>g*cm^-3 (graphite)</density_tag>
+		</element>
+		<element>
+				<atomic_number>7</atomic_number>
+				<symbol>N</symbol>
+				<name>Nitrogen</name>
+				<phase>gas</phase>
+				<category>non metal</category>
+				<atomic_weight>14.0067</atomic_weight>
+				<boiling_point>77.36 (kelvin)</boiling_point>
+				<melting_point>63.153 (kelvin)</melting_point>
+				<density>1.251</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>8</atomic_number>
+				<symbol>O</symbol>
+				<name>Oxygen</name>
+				<phase>gas</phase>
+				<category>non metal</category>
+				<atomic_weight>15.9994</atomic_weight>
+				<boiling_point>90.20 (kelvin)</boiling_point>
+				<melting_point>54.36 (kelvin)</melting_point>
+				<density>1.429</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>9</atomic_number>
+				<symbol>F</symbol>
+				<name>Fluorine</name>
+				<phase>gas</phase>
+				<category>halogen</category>
+				<atomic_weight>18.9984032</atomic_weight>
+				<boiling_point>85.03 (kelvin)</boiling_point>
+				<melting_point>53.53 (kelvin)</melting_point>
+				<density>1.7</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>10</atomic_number>
+				<symbol>Ne</symbol>
+				<name>Neon</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>20.1797</atomic_weight>
+				<boiling_point>27.07 (kelvin)</boiling_point>
+				<melting_point>24.56 (kelvin)</melting_point>
+				<density>.9002</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>11</atomic_number>
+				<symbol>Na</symbol>
+				<name>Sodium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>22.98976928</atomic_weight>
+				<boiling_point>1156 (kelvin)</boiling_point>
+				<melting_point>370.87 (kelvin)</melting_point>
+				<density>.968</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>12</atomic_number>
+				<symbol>Mg</symbol>
+				<name>Magnesium</name>
+				<phase>solid</phase>
+				<category>alkaline earth metal</category>
+				<atomic_weight>24.3050</atomic_weight>
+				<boiling_point>1363 (kelvin)</boiling_point>
+				<melting_point>923 (kelvin)</melting_point>
+				<density>1.738</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>13</atomic_number>
+				<symbol>Al</symbol>
+				<name>Aluminum</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>26.9815386</atomic_weight>
+				<boiling_point>2792 (kelvin)</boiling_point>
+				<melting_point>933.47 (kelvin)</melting_point>
+				<density>2.70</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>14</atomic_number>
+				<symbol>Si</symbol>
+				<name>Silicon</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>28.0855</atomic_weight>
+				<boiling_point>3538 (kelvin)</boiling_point>
+				<melting_point>1687 (kelvin)</melting_point>
+				<density>2.329</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>15</atomic_number>
+				<symbol>P</symbol>
+				<name>Phosphorus</name>
+				<phase>solid</phase>
+				<category>non metal</category>
+				<atomic_weight>30.973762</atomic_weight>
+				<boiling_point>550 (kelvin)</boiling_point>
+				<melting_point>317.3 (kelvin)</melting_point>
+				<density>1.823</density>
+				<density_tag>g*cm^-3 (white)</density_tag>
+		</element>
+		<element>
+				<atomic_number>16</atomic_number>
+				<symbol>S</symbol>
+				<name>Sulfur</name>
+				<phase>solid</phase>
+				<category>non metal</category>
+				<atomic_weight>32.065</atomic_weight>
+				<boiling_point>717.8 (kelvin)</boiling_point>
+				<melting_point>388.36 (kelvin)</melting_point>
+				<density>2.07</density>
+				<density_tag>g*cm^-3 (alpha)</density_tag>
+		</element>
+		<element>
+				<atomic_number>17</atomic_number>
+				<symbol>Cl</symbol>
+				<name>Chlorine</name>
+				<phase>gas</phase>
+				<category>halogen</category>
+				<atomic_weight>35.453</atomic_weight>
+				<boiling_point>239.11 (kelvin)</boiling_point>
+				<melting_point>171.6 (kelvin)</melting_point>
+				<density>3.2</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>18</atomic_number>
+				<symbol>Ar</symbol>
+				<name>Argon</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>39.948</atomic_weight>
+				<boiling_point>87.30 (kelvin)</boiling_point>
+				<melting_point>83.80 (kelvin)</melting_point>
+				<density>1.784</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>19</atomic_number>
+				<symbol>K</symbol>
+				<name>Potassium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>39.0983</atomic_weight>
+				<boiling_point>1032 (kelvin)</boiling_point>
+				<melting_point>336.53 (kelvin)</melting_point>
+				<density>.89</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>20</atomic_number>
+				<symbol>Ca</symbol>
+				<name>Calcium</name>
+				<phase>solid</phase>
+				<category>alkaline earth metal</category>
+				<atomic_weight>40.078</atomic_weight>
+				<boiling_point>1757 (kelvin)</boiling_point>
+				<melting_point>1115 (kelvin)</melting_point>
+				<density>1.55</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>21</atomic_number>
+				<symbol>Sc</symbol>
+				<name>Scandium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>44.955912</atomic_weight>
+				<boiling_point>3109 (kelvin)</boiling_point>
+				<melting_point>1814 (kelvin)</melting_point>
+				<density>2.985</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>22</atomic_number>
+				<symbol>Ti</symbol>
+				<name>Titanium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>47.867</atomic_weight>
+				<boiling_point>3560 (kelvin)</boiling_point>
+				<melting_point>1941 (kelvin)</melting_point>
+				<density>4.506</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>23</atomic_number>
+				<symbol>V</symbol>
+				<name>Vanadium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>50.9415</atomic_weight>
+				<boiling_point>3680 (kelvin)</boiling_point>
+				<melting_point>2183 (kelvin)</melting_point>
+				<density>6.0</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>24</atomic_number>
+				<symbol>Cr</symbol>
+				<name>Chromium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>51.9961</atomic_weight>
+				<boiling_point>2944 (kelvin)</boiling_point>
+				<melting_point>2180 (kelvin)</melting_point>
+				<density>7.19</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>25</atomic_number>
+				<symbol>Mn</symbol>
+				<name>Manganese</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>54.938045</atomic_weight>
+				<boiling_point>2334 (kelvin)</boiling_point>
+				<melting_point>1519 (kelvin)</melting_point>
+				<density>7.21</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>26</atomic_number>
+				<symbol>Fe</symbol>
+				<name>Iron</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>55.845</atomic_weight>
+				<boiling_point>3134 (kelvin)</boiling_point>
+				<melting_point>1811 (kelvin)</melting_point>
+				<density>7.874</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>27</atomic_number>
+				<symbol>Co</symbol>
+				<name>Cobalt</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>58.933195</atomic_weight>
+				<boiling_point>3200 (kelvin)</boiling_point>
+				<melting_point>1768 (kelvin)</melting_point>
+				<density>8.9</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>28</atomic_number>
+				<symbol>Ni</symbol>
+				<name>Nickel</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>58.6934</atomic_weight>
+				<boiling_point>3186 (kelvin)</boiling_point>
+				<melting_point>1728 (kelvin)</melting_point>
+				<density>8.909</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>29</atomic_number>
+				<symbol>Cu</symbol>
+				<name>Copper</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>63.546</atomic_weight>
+				<boiling_point>2835 (kelvin)</boiling_point>
+				<melting_point>1357.77 (kelvin)</melting_point>
+				<density>8.94</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>30</atomic_number>
+				<symbol>Zn</symbol>
+				<name>Zinc</name>
+				<phase>solid</phase>
+				<atomic_weight>65.38</atomic_weight>
+				<category>transition metal</category>
+				<boiling_point>1180 (kelvin)</boiling_point>
+				<melting_point>692.68 (kelvin)</melting_point>
+				<density>7.14</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>31</atomic_number>
+				<symbol>Ga</symbol>
+				<name>Gallium</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>69.723</atomic_weight>
+				<boiling_point>2477 (kelvin)</boiling_point>
+				<melting_point>302.9146 (kelvin)</melting_point>
+				<density>5.91</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>32</atomic_number>
+				<symbol>Ge</symbol>
+				<name>Germanium</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>72.64</atomic_weight>
+				<boiling_point>3106 (kelvin)</boiling_point>
+				<melting_point>1211.40 (kelvin)</melting_point>
+				<density>5.323</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>33</atomic_number>
+				<symbol>As</symbol>
+				<name>Arsenic</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>74.92160</atomic_weight>
+				<boiling_point>887 (kelvin)</boiling_point>
+				<melting_point>1090 (kelvin)</melting_point>
+				<density>5.727</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>34</atomic_number>
+				<symbol>Se</symbol>
+				<name>Selenium</name>
+				<phase>solid</phase>
+				<category>non metal</category>
+				<atomic_weight>78.96</atomic_weight>
+				<boiling_point>958 (kelvin)</boiling_point>
+				<melting_point>494 (kelvin)</melting_point>
+				<density>4.81</density>
+				<density_tag>g*cm^-3 (gray)</density_tag>
+		</element>
+		<element>
+				<atomic_number>35</atomic_number>
+				<symbol>Br</symbol>
+				<name>Bromine</name>
+				<phase>liquid</phase>
+				<category>halogen</category>
+				<atomic_weight>79.904</atomic_weight>
+				<boiling_point>332.0 (kelvin)</boiling_point>
+				<melting_point>265.8 (kelvin)</melting_point>
+				<density>3.1028</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>36</atomic_number>
+				<symbol>Kr</symbol>
+				<name>Krypton</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>83.798</atomic_weight>
+				<boiling_point>119.93 (kelvin)</boiling_point>
+				<melting_point>115.79 (kelvin)</melting_point>
+				<density>3.749</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>37</atomic_number>
+				<symbol>Rb</symbol>
+				<name>Rubidium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>85.4678</atomic_weight>
+				<boiling_point>961 (kelvin)</boiling_point>
+				<melting_point>312.46 (kelvin)</melting_point>
+				<density>1.532</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>38</atomic_number>
+				<symbol>Sr</symbol>
+				<name>Strontium</name>
+				<phase>solid</phase>
+				<category>alkaline earth metal</category>
+				<atomic_weight>87.62</atomic_weight>
+				<boiling_point>1655 (kelvin)</boiling_point>
+				<melting_point>1050 (kelvin)</melting_point>
+				<density>2.64</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>39</atomic_number>
+				<symbol>Y</symbol>
+				<name>Yttrium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>88.90585</atomic_weight>
+				<boiling_point>3609 (kelvin)</boiling_point>
+				<melting_point>1799 (kelvin)</melting_point>
+				<density>4.472</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>40</atomic_number>
+				<symbol>Zr</symbol>
+				<name>Zirconium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>91.224</atomic_weight>
+				<boiling_point>4682 (kelvin)</boiling_point>
+				<melting_point>2128 (kelvin)</melting_point>
+				<density>6.52</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>41</atomic_number>
+				<symbol>Nb</symbol>
+				<name>Niobium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>92.90638</atomic_weight>
+				<boiling_point>5017 (kelvin)</boiling_point>
+				<melting_point>2750 (kelvin)</melting_point>
+				<density>8.57</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>42</atomic_number>
+				<symbol>Mo</symbol>
+				<name>Molybdenum</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>95.96</atomic_weight>
+				<boiling_point>4912 (kelvin)</boiling_point>
+				<melting_point>2896 (kelvin)</melting_point>
+				<density>10.28</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>43</atomic_number>
+				<symbol>Tc</symbol>
+				<name>Technetium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(98)</atomic_weight>
+				<boiling_point>4538 (kelvin)</boiling_point>
+				<melting_point>2430 (kelvin)</melting_point>
+				<density>11</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>44</atomic_number>
+				<symbol>Ru</symbol>
+				<name>Ruthenium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>101.07</atomic_weight>
+				<boiling_point>4423 (kelvin)</boiling_point>
+				<melting_point>2607 (kelvin)</melting_point>
+				<density>12.45</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>45</atomic_number>
+				<symbol>Rh</symbol>
+				<name>Rhodium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>102.90550</atomic_weight>
+				<boiling_point>3968 (kelvin)</boiling_point>
+				<melting_point>2237 (kelvin)</melting_point>
+				<density>12.41</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>46</atomic_number>
+				<symbol>Pd</symbol>
+				<name>Palladium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>106.42</atomic_weight>
+				<boiling_point>3236 (kelvin)</boiling_point>
+				<melting_point>1828.05 (kelvin)</melting_point>
+				<density>12.023</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>47</atomic_number>
+				<symbol>Ag</symbol>
+				<name>Silver</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>107.8682</atomic_weight>
+				<boiling_point>2435 (kelvin)</boiling_point>
+				<melting_point>1234.93 (kelvin)</melting_point>
+				<density>10.49</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>48</atomic_number>
+				<symbol>Cd</symbol>
+				<name>Cadmium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>112.411</atomic_weight>
+				<boiling_point>1040 (kelvin)</boiling_point>
+				<melting_point>594.22 (kelvin)</melting_point>
+				<density>8.65</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>49</atomic_number>
+				<symbol>In</symbol>
+				<name>Indium</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>114.818</atomic_weight>
+				<boiling_point>2345 (kelvin)</boiling_point>
+				<melting_point>429.7485 (kelvin)</melting_point>
+				<density>7.31</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>50</atomic_number>
+				<symbol>Sn</symbol>
+				<name>Tin</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>118.710</atomic_weight>
+				<boiling_point>2875 (kelvin)</boiling_point>
+				<melting_point>505.08 (kelvin)</melting_point>
+				<density>7.365</density>
+				<density_tag>g*cm^-3 (white)</density_tag>
+		</element>
+		<element>
+				<atomic_number>51</atomic_number>
+				<symbol>Sb</symbol>
+				<name>Antimony</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>121.760</atomic_weight>
+				<boiling_point>1860 (kelvin)</boiling_point>
+				<melting_point>903.78 (kelvin)</melting_point>
+				<density>6.697</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>52</atomic_number>
+				<symbol>Te</symbol>
+				<name>Tellurium</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>127.60</atomic_weight>
+				<boiling_point>1261 (kelvin)</boiling_point>
+				<melting_point>722.66 (kelvin)</melting_point>
+				<density>6.24</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>53</atomic_number>
+				<symbol>I</symbol>
+				<name>Iodine</name>
+				<phase>solid</phase>
+				<category>halogen</category>
+				<atomic_weight>126.90447</atomic_weight>
+				<boiling_point>457.4 (kelvin)</boiling_point>
+				<melting_point>386.85 (kelvin)</melting_point>
+				<density>4.933</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>54</atomic_number>
+				<symbol>Xe</symbol>
+				<name>Xenon</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>131.293</atomic_weight>
+				<boiling_point>165.03 (kelvin)</boiling_point>
+				<melting_point>161.4 (kelvin)</melting_point>
+				<density>5.894</density>
+				<density_tag>g/L</density_tag>
+		</element>
+		<element>
+				<atomic_number>55</atomic_number>
+				<symbol>Cs</symbol>
+				<name>Cesium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>132.9054</atomic_weight>
+				<boiling_point>944 (kelvin)</boiling_point>
+				<melting_point>301.59 (kelvin)</melting_point>
+				<density>1.93</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>56</atomic_number>
+				<symbol>Ba</symbol>
+				<name>Barium</name>
+				<phase>solid</phase>
+				<category>alkaline earth metal</category>
+				<atomic_weight>137.327</atomic_weight>
+				<boiling_point>2170 (kelvin)</boiling_point>
+				<melting_point>1000 (kelvin)</melting_point>
+				<density>3.51</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>57</atomic_number>
+				<symbol>La</symbol>
+				<name>Lanthanum</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>138.90547</atomic_weight>
+				<boiling_point>3737 (kelvin)</boiling_point>
+				<melting_point>1193 (kelvin)</melting_point>
+				<density>6.162</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>58</atomic_number>
+				<symbol>Ce</symbol>
+				<name>Cerium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>140.116</atomic_weight>
+				<boiling_point>3716 (kelvin)</boiling_point>
+				<melting_point>1068 (kelvin)</melting_point>
+				<density>6.770</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>59</atomic_number>
+				<symbol>Pr</symbol>
+				<name>Praseodymium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>140.90765</atomic_weight>
+				<boiling_point>3793 (kelvin)</boiling_point>
+				<melting_point>1208 (kelvin)</melting_point>
+				<density>6.77</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>60</atomic_number>
+				<symbol>Nd</symbol>
+				<name>Neodymium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>144.242</atomic_weight>
+				<boiling_point>3347 (kelvin)</boiling_point>
+				<melting_point>1297 (kelvin)</melting_point>
+				<density>7.01</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>61</atomic_number>
+				<symbol>Pm</symbol>
+				<name>Promethium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>(145)</atomic_weight>
+				<boiling_point>3273 (kelvin)</boiling_point>
+				<melting_point>1315 (kelvin)</melting_point>
+				<density>7.26</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>62</atomic_number>
+				<symbol>Sm</symbol>
+				<name>Samarium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>150.36</atomic_weight>
+				<boiling_point>2067 (kelvin)</boiling_point>
+				<melting_point>1345 (kelvin)</melting_point>
+				<density>7.52</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>63</atomic_number>
+				<symbol>Eu</symbol>
+				<name>Europium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>151.964</atomic_weight>
+				<boiling_point>1802 (kelvin)</boiling_point>
+				<melting_point>1099 (kelvin)</melting_point>
+				<density>5.264</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>64</atomic_number>
+				<symbol>Gd</symbol>
+				<name>Gadolinium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>157.25</atomic_weight>
+				<boiling_point>3546 (kelvin)</boiling_point>
+				<melting_point>1585 (kelvin)</melting_point>
+				<density>7.9</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>65</atomic_number>
+				<symbol>Tb</symbol>
+				<name>Terbium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>158.92535</atomic_weight>
+				<boiling_point>3503 (kelvin)</boiling_point>
+				<melting_point>1629 (kelvin)</melting_point>
+				<density>8.23</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>66</atomic_number>
+				<symbol>Dy</symbol>
+				<name>Dysprosium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>162.500</atomic_weight>
+				<boiling_point>2840 (kelvin)</boiling_point>
+				<melting_point>1680 (kelvin)</melting_point>
+				<density>8.540</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>67</atomic_number>
+				<symbol>Ho</symbol>
+				<name>Holmium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>164.93032</atomic_weight>
+				<boiling_point>2993 (kelvin)</boiling_point>
+				<melting_point>1734 (kelvin)</melting_point>
+				<density>8.79</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>68</atomic_number>
+				<symbol>Er</symbol>
+				<name>Erbium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>167.259</atomic_weight>
+				<boiling_point>3141 (kelvin)</boiling_point>
+				<melting_point>1802 (kelvin)</melting_point>
+				<density>9.066</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>69</atomic_number>
+				<symbol>Tm</symbol>
+				<name>Thulium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>168.93421</atomic_weight>
+				<boiling_point>2223 (kelvin)</boiling_point>
+				<melting_point>1818 (kelvin)</melting_point>
+				<density>9.32</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>70</atomic_number>
+				<symbol>Yb</symbol>
+				<name>Ytterbium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>173.054</atomic_weight>
+				<boiling_point>1469 (kelvin)</boiling_point>
+				<melting_point>1097 (kelvin)</melting_point>
+				<density>6.90</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>71</atomic_number>
+				<symbol>Lu</symbol>
+				<name>Lutetium</name>
+				<phase>solid</phase>
+				<category>lanthanoid</category>
+				<atomic_weight>174.9668</atomic_weight>
+				<boiling_point>3675 (kelvin)</boiling_point>
+				<melting_point>1925 (kelvin)</melting_point>
+				<density>9.841</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>72</atomic_number>
+				<symbol>Hf</symbol>
+				<name>Hafnium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>178.48</atomic_weight>
+				<boiling_point>4876 (kelvin)</boiling_point>
+				<melting_point>2506 (kelvin)</melting_point>
+				<density>13.31</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>73</atomic_number>
+				<symbol>Ta</symbol>
+				<name>Tantalum</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>180.9488</atomic_weight>
+				<boiling_point>5731 (kelvin)</boiling_point>
+				<melting_point>3290 (kelvin)</melting_point>
+				<density>16.69</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>74</atomic_number>
+				<symbol>W</symbol>
+				<name>Tungsten</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>183.84</atomic_weight>
+				<boiling_point>5828 (kelvin)</boiling_point>
+				<melting_point>3695 (kelvin)</melting_point>
+				<density>19.25</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>75</atomic_number>
+				<symbol>Re</symbol>
+				<name>Rhenium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>186.207</atomic_weight>
+				<boiling_point>5869 (kelvin)</boiling_point>
+				<melting_point>3459 (kelvin)</melting_point>
+				<density>21.02</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>76</atomic_number>
+				<symbol>Os</symbol>
+				<name>Osmium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>190.23</atomic_weight>
+				<boiling_point>5285 (kelvin)</boiling_point>
+				<melting_point>3306 (kelvin)</melting_point>
+				<density>22.61</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>77</atomic_number>
+				<symbol>Ir</symbol>
+				<name>Iridium</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>192.217</atomic_weight>
+				<boiling_point>4701 (kelvin)</boiling_point>
+				<melting_point>2739 (kelvin)</melting_point>
+				<density>22.56</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>78</atomic_number>
+				<symbol>Pt</symbol>
+				<name>Platinum</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>195.084</atomic_weight>
+				<boiling_point>4098 (kelvin)</boiling_point>
+				<melting_point>2041.4 (kelvin)</melting_point>
+				<density>21.45</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>79</atomic_number>
+				<symbol>Au</symbol>
+				<name>Gold</name>
+				<phase>solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>196.966569</atomic_weight>
+				<boiling_point>3129 (kelvin)</boiling_point>
+				<melting_point>1337.33 (kelvin)</melting_point>
+				<density>19.3</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>80</atomic_number>
+				<symbol>Hg</symbol>
+				<name>Mercury</name>
+				<phase>liquid</phase>
+				<category>transition metal</category>
+				<atomic_weight>200.59</atomic_weight>
+				<boiling_point>629.88 (kelvin)</boiling_point>
+				<melting_point>234.32 (kelvin)</melting_point>
+				<density>13.534</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>81</atomic_number>
+				<symbol>Tl</symbol>
+				<name>Thallium</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>204.3833</atomic_weight>
+				<boiling_point>1746 (kelvin)</boiling_point>
+				<melting_point>577 (kelvin)</melting_point>
+				<density>11.85</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>82</atomic_number>
+				<symbol>Pb</symbol>
+				<name>Lead</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>207.2</atomic_weight>
+				<boiling_point>2022 (kelvin)</boiling_point>
+				<melting_point>600.61 (kelvin)</melting_point>
+				<density>11.34</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>83</atomic_number>
+				<symbol>Bi</symbol>
+				<name>Bismuth</name>
+				<phase>solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>208.98040</atomic_weight>
+				<boiling_point>1837 (kelvin)</boiling_point>
+				<melting_point>544.7 (kelvin)</melting_point>
+				<density>9.78</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>84</atomic_number>
+				<symbol>Po</symbol>
+				<name>Polonium</name>
+				<phase>solid</phase>
+				<category>metaloid</category>
+				<atomic_weight>(209)</atomic_weight>
+				<boiling_point>1235 (kelvin)</boiling_point>
+				<melting_point>527 (kelvin)</melting_point>
+				<density>9.196</density>
+				<density_tag>g*cm^-3 (alpha)</density_tag>
+		</element>
+		<element>
+				<atomic_number>85</atomic_number>
+				<symbol>At</symbol>
+				<name>Astatine</name>
+				<phase>solid</phase>
+				<category>halogen</category>
+				<atomic_weight>(210)</atomic_weight>
+				<boiling_point>610 (kelvin)</boiling_point>
+				<melting_point>575 (kelvin)</melting_point>
+				<density></density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>86</atomic_number>
+				<symbol>Rn</symbol>
+				<name>Radon</name>
+				<phase>gas</phase>
+				<category>noble gas</category>
+				<atomic_weight>(222)</atomic_weight>
+				<boiling_point>211.3 (kelvin)</boiling_point>
+				<melting_point>202 (kelvin)</melting_point>
+				<density></density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>87</atomic_number>
+				<symbol>Fr</symbol>
+				<name>Francium</name>
+				<phase>solid</phase>
+				<category>alkali metal</category>
+				<atomic_weight>(223)</atomic_weight>
+				<boiling_point>Est. 950 (kelvin)</boiling_point>
+				<melting_point>Est. 300 (kelvin)</melting_point>
+				<density>1.87</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>88</atomic_number>
+				<symbol>Ra</symbol>
+				<name>Radium</name>
+				<phase>solid</phase>
+				<category> alkaline earth metal
+				</category>
+				<atomic_weight>(226)</atomic_weight>
+				<boiling_point>2010 (kelvin)</boiling_point>
+				<melting_point>973 (kelvin)</melting_point>
+				<density>5.5</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>89</atomic_number>
+				<symbol>Ac</symbol>
+				<name>Actinium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(227)</atomic_weight>
+				<boiling_point>3471 (kelvin)</boiling_point>
+				<melting_point>1323 (kelvin)</melting_point>
+				<density>10</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>90</atomic_number>
+				<symbol>Th</symbol>
+				<name>Thorium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>232.03806</atomic_weight>
+				<boiling_point>5061 (kelvin)</boiling_point>
+				<melting_point>2115 (kelvin)</melting_point>
+				<density>11.7</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>91</atomic_number>
+				<symbol>Pa</symbol>
+				<name>Protactinium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>231.03588</atomic_weight>
+				<boiling_point>4300.1010101010 (kelvin)</boiling_point>
+				<melting_point>1841 (kelvin)</melting_point>
+				<density>15.37</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>92</atomic_number>
+				<symbol>U</symbol>
+				<name>Uranium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>238.02891</atomic_weight>
+				<boiling_point>4404 (kelvin)</boiling_point>
+				<melting_point>1405.3 (kelvin)</melting_point>
+				<density>19.1</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>93</atomic_number>
+				<symbol>Np</symbol>
+				<name>Neptunium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(237)</atomic_weight>
+				<boiling_point>4273 (kelvin)</boiling_point>
+				<melting_point>910 (kelvin)</melting_point>
+				<density>20.45</density>
+				<density_tag>[1] g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>94</atomic_number>
+				<symbol>Pu</symbol>
+				<name>Plutonium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(244)</atomic_weight>
+				<boiling_point>3505 (kelvin)</boiling_point>
+				<melting_point>912.5 (kelvin)</melting_point>
+				<density>19.816</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>95</atomic_number>
+				<symbol>Am</symbol>
+				<name>Americium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(243)</atomic_weight>
+				<boiling_point>2880 (kelvin)</boiling_point>
+				<melting_point>1449 (kelvin)</melting_point>
+				<density>12</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>96</atomic_number>
+				<symbol>Cm</symbol>
+				<name>Curium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(247)</atomic_weight>
+				<boiling_point>3383 (kelvin)</boiling_point>
+				<melting_point>1613 (kelvin)</melting_point>
+				<density>13.51</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>97</atomic_number>
+				<symbol>Bk</symbol>
+				<name>Berkelium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(247)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>1259 (kelvin)</melting_point>
+				<density>14.78</density>
+				<density_tag>g*cm^-3 (alpha)</density_tag>
+		</element>
+		<element>
+				<atomic_number>98</atomic_number>
+				<symbol>Cf</symbol>
+				<name>Californium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(251)</atomic_weight>
+				<boiling_point>1743 (kelvin)</boiling_point>
+				<melting_point>1173 (kelvin)</melting_point>
+				<density>15.1</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>99</atomic_number>
+				<symbol>Es</symbol>
+				<name>Einsteinium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(252)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>1133 (kelvin)</melting_point>
+				<density>8.84</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+		<element>
+				<atomic_number>100</atomic_number>
+				<symbol>Fm</symbol>
+				<name>Fermium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(257)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>1800 (kelvin)</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>101</atomic_number>
+				<symbol>Md</symbol>
+				<name>Mendelevium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(258)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>1100 (kelvin)</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>102</atomic_number>
+				<symbol>No</symbol>
+				<name>Nobelium</name>
+				<phase>solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(259)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>103</atomic_number>
+				<symbol>Lr</symbol>
+				<name>Lawrencium</name>
+				<phase>possible solid</phase>
+				<category>actinoid</category>
+				<atomic_weight>(262)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>104</atomic_number>
+				<symbol>Rf</symbol>
+				<name>Rutherfordium</name>
+				<phase>unknown</phase>
+				<category>transition metal</category>
+				<atomic_weight>(267)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>105</atomic_number>
+				<symbol>Db</symbol>
+				<name>Dubnium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(268)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>106</atomic_number>
+				<symbol>Sg</symbol>
+				<name>Seaborgium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(271)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>107</atomic_number>
+				<symbol>Bh</symbol>
+				<name>Bohrium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(272)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>108</atomic_number>
+				<symbol>Hs</symbol>
+				<name>Hassium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(270)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>109</atomic_number>
+				<symbol>Mt</symbol>
+				<name>Meitnerium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(276)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>110</atomic_number>
+				<symbol>Ds</symbol>
+				<name>Darmstadtium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(281)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>111</atomic_number>
+				<symbol>Rg</symbol>
+				<name>Roentgenium</name>
+				<phase>possible solid</phase>
+				<category>transition metal</category>
+				<atomic_weight>(280)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>112</atomic_number>
+				<symbol>Cn</symbol>
+				<name>Copernicium</name>
+				<phase>unknown</phase>
+				<category>transition metal</category>
+				<atomic_weight>(285)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>113</atomic_number>
+				<symbol>Uut</symbol>
+				<name>Ununtrium</name>
+				<phase>possible solid</phase>
+				<category>post transition metal</category>
+				<atomic_weight>(284)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>114</atomic_number>
+				<symbol>Uuq</symbol>
+				<name>Ununquadium</name>
+				<phase>unknown</phase>
+				<category>post transition metal</category>
+				<atomic_weight>(289)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>115</atomic_number>
+				<symbol>Uup</symbol>
+				<name>Ununpentium</name>
+				<phase>unknown</phase>
+				<category>post transition metal</category>
+				<atomic_weight>(288)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>116</atomic_number>
+				<symbol>Uuh</symbol>
+				<name>Ununhexium</name>
+				<phase>unknown</phase>
+				<category>post transition metal</category>
+				<atomic_weight>(293)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>117</atomic_number>
+				<symbol>Uus</symbol>
+				<name>Ununseptium</name>
+				<phase>unknown</phase>
+				<category>unknown</category>
+				<atomic_weight>(294)</atomic_weight>
+				<boiling_point>unknown</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>unknown</density>
+				<density_tag></density_tag>
+		</element>
+		<element>
+				<atomic_number>118</atomic_number>
+				<symbol>Uuo</symbol>
+				<name>Ununoctium</name>
+				<phase>solid</phase>
+				<category>noble gas</category>
+				<atomic_weight>(294)</atomic_weight>
+				<boiling_point>380.0 (kelvin)</boiling_point>
+				<melting_point>unknown</melting_point>
+				<density>13.65</density>
+				<density_tag>g*cm^-3</density_tag>
+		</element>
+</ElementDataSet>

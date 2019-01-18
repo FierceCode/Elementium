@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+		<!-- Base application theme, dependent on API level. This theme is replaced 
+				by AppBaseTheme from res/values-vXX/styles.xml on newer devices. -->
+		<style
+				name="AppBaseTheme"
+				parent="android:Theme.Light"
+		>
+				<!-- Theme customizations available in newer API levels can go in res/values-vXX/styles.xml, 
+						while customizations related to backward-compatibility can go here. -->
+		</style>
+		<!-- Application theme. -->
+		<style
+				name="AppTheme"
+				parent="AppBaseTheme"
+		></style>
+		<style
+				name="MyTheme"
+				parent="android:Theme.DeviceDefault"
+		></style>
+		<style name="layout_style">
+				<item name="android:layout_margin">4sp</item>
+				<item name="android:orientation">vertical</item>
+				<item name="android:weightSum">10</item>
+		</style>
+		<style name="element_style">
+				<item name="android:layout_gravity">center_horizontal</item>
+				<item name="android:layout_marginTop">20sp</item>
+				<item name="android:layout_marginRight">40sp</item>
+				<item name="android:layout_marginLeft">40sp</item>
+				<item name="android:layout_marginBottom">60sp</item>
+		</style>
+		<style
+				name="element_symbol"
+				parent="android:Widget.DeviceDefault.TextView"
+		>
+				<item name="android:textSize">80sp</item>
+				<item name="android:layout_centerInParent">true</item>
+		</style>
+		<style
+				name="element_name"
+				parent="android:Widget.DeviceDefault.TextView"
+		>
+				<item name="android:layout_centerHorizontal">true</item>
+				<item name="android:textSize">30sp</item>
+		</style>
+</resources>
